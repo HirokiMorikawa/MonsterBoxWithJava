@@ -1,0 +1,4 @@
+<map id="project.monsterBox.servlet.DownloadOrViewThumbServlet.doGet" name="project.monsterBox.servlet.DownloadOrViewThumbServlet.doGet">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1model_1_1_upload_file.html#a8e26aee9591b5afee6b1a05b963f1ed1" title="project.monsterBox.model.\lUploadFile.getMimeType" alt="" coords="300,5,480,44"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1model_1_1_upload_file.html#a119d99844c90f2be9869af722c8f539a" title="project.monsterBox.model.\lUploadFile.getFileName" alt="" coords="300,68,480,107"/>
+</map>

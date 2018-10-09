@@ -1,0 +1,4 @@
+<map id="logic.profile.UserProfileSerializer.UserProfileSerializer" name="logic.profile.UserProfileSerializer.UserProfileSerializer">
+<area shape="rect" id="node2" href="$classmodel_1_1_user_profile.html#a06b1be22d7d21ac5efdff98e3cf4cd38" title="model.UserProfile.getUser" alt="" coords="255,5,432,31"/>
+<area shape="rect" id="node3" href="$classmodel_1_1_user.html#a73b2522bcb32e0bcfdeae69bd715115c" title="model.User.getLoginID" alt="" coords="265,55,422,80"/>
+</map>

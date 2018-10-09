@@ -1,0 +1,5 @@
+<map id="model.UserProfile.getWatchHistory" name="model.UserProfile.getWatchHistory">
+<area shape="rect" id="node2" href="$classcontroller_1_1_top_controller.html#ad5d929739c3ca27143a57882e9841bc7" title="controller.TopController.doGet" alt="" coords="240,5,438,31"/>
+<area shape="rect" id="node3" href="$classlogic_1_1profile_1_1_user_profiling_system.html#add7e7156129cd24860840f9d019ff2ab" title="logic.profile.UserProfiling\lSystem.watchHistory" alt="" coords="255,55,423,93"/>
+<area shape="rect" id="node4" href="$classlogic_1_1profile_1_1_user_profiling_system.html#a947b271782d5afa678da8757cd243a3e" title="logic.profile.UserProfiling\lSystem.addWatchHistory" alt="" coords="254,117,424,156"/>
+</map>

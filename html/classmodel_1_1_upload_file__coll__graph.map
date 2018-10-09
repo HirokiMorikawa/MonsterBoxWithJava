@@ -1,0 +1,5 @@
+<map id="model.UploadFile" name="model.UploadFile">
+<area shape="rect" id="node4" href="$classmodel_1_1_comment.html" title="{model.Comment\n|&#45; userId\l&#45; comment\l|+ Comment()\l+ getUserId()\l+ getComment()\l}" alt="" coords="44,140,163,253"/>
+<area shape="rect" id="node6" href="$classmodel_1_1_comment_list.html" title="{model.CommentList\n||+ CommentList()\l+ getCommentList()\l+ addComment()\l}" alt="" coords="187,147,327,247"/>
+<area shape="rect" id="node3" href="$classmodel_1_1_owner_comment.html" title="{model.OwnerComment\n|&#45; title\l|+ OwnerComment()\l+ getTitle()\l}" alt="" coords="43,303,202,389"/>
+</map>

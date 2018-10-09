@@ -1,0 +1,5 @@
+<map id="project.monsterBox.logic.profile.UserProfilingSystem.addFavorite" name="project.monsterBox.logic.profile.UserProfilingSystem.addFavorite">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1model_1_1_user_profile.html#a22a98d42f652a5fe07c64ac4d3ba58b8" title="project.monsterBox.model.\lUserProfile.getUserFavoriteList" alt="" coords="270,5,476,44"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1model_1_1_upload_file.html#ac5fd148396f4166869b903f8fc7e9fe5" title="project.monsterBox.model.\lUploadFile.getUploadTime" alt="" coords="283,68,463,107"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1model_1_1_upload_file_list.html#a8c21eaf4b06c92aa695fd163c1048a57" title="project.monsterBox.model.\lUploadFileList.addUploadFile" alt="" coords="275,131,471,169"/>
+</map>

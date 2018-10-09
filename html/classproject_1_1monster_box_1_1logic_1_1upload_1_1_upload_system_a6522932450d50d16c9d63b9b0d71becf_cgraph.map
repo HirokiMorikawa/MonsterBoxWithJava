@@ -1,0 +1,7 @@
+<map id="project.monsterBox.logic.upload.UploadSystem.doUpload" name="project.monsterBox.logic.upload.UploadSystem.doUpload">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_logic_template.html#a289922f0813e35f9bfa69c3ecbff2790" title="project.monsterBox.logic.upload.\lUploadLogicTemplate.doUpload" alt="" coords="268,100,483,139"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_logic_template.html#a84a062d4b81d1fcf3ce96aa5d5a0fd0f" title="project.monsterBox.logic.upload.\lUploadLogicTemplate.doSaveFile" alt="" coords="565,5,785,44"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_logic_template.html#a0fc70a65e934e9838b862ad370dba659" title="project.monsterBox.logic.upload.\lUploadLogicTemplate.doGenerateUploadFile" alt="" coords="531,68,818,107"/>
+<area shape="rect" id="node5" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_logic_template.html#af809942573619b1b5a2f13fcbb5a3692" title="project.monsterBox.logic.upload.\lUploadLogicTemplate.updateUserProfile" alt="" coords="545,131,805,169"/>
+<area shape="rect" id="node6" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_logic_template.html#a1d2afa1431eb27127fe0dc18004b8701" title="project.monsterBox.logic.upload.\lUploadLogicTemplate.registerToCentralStore" alt="" coords="531,193,818,232"/>
+</map>

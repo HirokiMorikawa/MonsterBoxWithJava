@@ -1,0 +1,7 @@
+<map id="logic.dao.login.ProfileAccessor.getUserProfile" name="logic.dao.login.ProfileAccessor.getUserProfile">
+<area shape="rect" id="node2" href="$classmodel_1_1_user_profile.html#a06b1be22d7d21ac5efdff98e3cf4cd38" title="model.UserProfile.getUser" alt="" coords="309,5,487,31"/>
+<area shape="rect" id="node3" href="$classmodel_1_1_user.html#a28f20bcbe2b5411852e80577582c30ca" title="model.User.setLoginID" alt="" coords="320,55,476,80"/>
+<area shape="rect" id="node4" href="$classlogic_1_1dao_1_1login_1_1_profile_accessor.html#a7f8c1a70f908dfe7f371057c012cacc3" title="logic.dao.login.ProfileAccessor.exists\lUserProfile" alt="" coords="278,104,518,143"/>
+<area shape="rect" id="node5" href="$classlogic_1_1_deserializer.html#a04cf446d1dc0d6181072ef327fc4f8d8" title="logic.Deserializer.doDeserialize" alt="" coords="294,167,501,192"/>
+<area shape="rect" id="node6" href="$classlogic_1_1_deserializer.html#a1d6e0c476c7b55a498fbfb1a96a35e28" title="logic.Deserializer.getDeserealized\lObject" alt="" coords="287,216,509,255"/>
+</map>

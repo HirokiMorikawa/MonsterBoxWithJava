@@ -1,0 +1,4 @@
+<map id="project.monsterBox.logic.upload.UploadFileListSerializer" name="project.monsterBox.logic.upload.UploadFileListSerializer">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1_serializer.html" title="{project.monsterBox.logic.\lSerializer\n|&#45; dir\l&#45; fileName\l|+ Serializer()\l+ Serializer()\l+ setFileName()\l+ doSerialize()\l# getObjectOutputStream()\l}" alt="" coords="5,153,187,307"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1model_1_1_upload_file_list.html" title="{project.monsterBox.model.\lUploadFileList\n||+ UploadFileList()\l+ uploadFileList()\l+ addUploadFile()\l}" alt="" coords="210,173,390,287"/>
+</map>

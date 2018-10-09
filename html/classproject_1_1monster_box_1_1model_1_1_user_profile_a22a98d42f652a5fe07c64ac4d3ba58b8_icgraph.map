@@ -1,0 +1,5 @@
+<map id="project.monsterBox.model.UserProfile.getUserFavoriteList" name="project.monsterBox.model.UserProfile.getUserFavoriteList">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profiling_system.html#a35b9ad80054236ae8cd50183e25e6c3a" title="project.monsterBox.logic.profile.\lUserProfilingSystem.addFavorite" alt="" coords="260,5,476,44"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1servlet_1_1_profile_servlet.html#a0485496053fc5ba382eada9b3b5d2c11" title="project.monsterBox.servlet.\lProfileServlet.doGet" alt="" coords="277,68,459,107"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1servlet_1_1_faborite_button_servlet.html#ab89e3497d49eb40e574eb5167f46ea91" title="project.monsterBox.servlet.\lFaboriteButtonServlet.doGet" alt="" coords="524,5,714,44"/>
+</map>

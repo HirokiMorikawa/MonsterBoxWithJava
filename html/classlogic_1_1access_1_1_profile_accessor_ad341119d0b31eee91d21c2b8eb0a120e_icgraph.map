@@ -1,0 +1,9 @@
+<map id="logic.access.ProfileAccessor.saveUserProfile" name="logic.access.ProfileAccessor.saveUserProfile">
+<area shape="rect" id="node2" href="$classlogic_1_1profile_1_1_user_profiling_system.html#aed551ba3f41155e54e8051659e4fbd67" title="logic.profile.UserProfiling\lSystem.save" alt="" coords="305,68,474,107"/>
+<area shape="rect" id="node8" href="$classlogic_1_1profile_1_1_user_profiling_system.html#a4b12d1c1e4eba63800212bbbe1f5b28a" title="logic.profile.UserProfiling\lSystem.createUserProfileIfNotExist" alt="" coords="275,5,504,44"/>
+<area shape="rect" id="node3" href="$classlogic_1_1login_1_1_login_system.html#a2484e24c86f8f13fc706b13c3059de42" title="logic.login.LoginSystem.do\lLogin" alt="" coords="570,68,750,107"/>
+<area shape="rect" id="node5" href="$classlogic_1_1login_1_1_sign_in_system.html#a6ea2e11e772f24338ef793d75dbb1ca7" title="logic.login.SignInSystem.do\lSign_in" alt="" coords="567,5,752,44"/>
+<area shape="rect" id="node7" href="$classlogic_1_1upload_1_1_upload_logic.html#a8bc26ec90b4b3f7c5cfe7478f2341e8a" title="logic.upload.UploadLogic.update\lUserProfile" alt="" coords="552,131,767,169"/>
+<area shape="rect" id="node4" href="$classservlet_1_1_login_servlet.html#affd84ca3d8c2c8b38c94c6669958e96d" title="servlet.LoginServlet.doPost" alt="" coords="818,75,1001,100"/>
+<area shape="rect" id="node6" href="$classservlet_1_1_sign_in_servlet.html#a5585a597a5d5f88dcd30d8453f6aef3c" title="servlet.SignInServlet.doPost" alt="" coords="815,12,1004,37"/>
+</map>

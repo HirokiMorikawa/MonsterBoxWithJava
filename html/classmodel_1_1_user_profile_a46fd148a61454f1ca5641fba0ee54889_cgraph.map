@@ -1,0 +1,8 @@
+<map id="model.UserProfile.main" name="model.UserProfile.main">
+<area shape="rect" id="node2" href="$classmodel_1_1_user_profile.html#a173e33632378b017032387f510cb6d0b" title="model.UserProfile.UserProfile" alt="" coords="213,5,410,31"/>
+<area shape="rect" id="node3" href="$classmodel_1_1_user_profile.html#a085caab7f905842010ebe2fa1f1f40d8" title="model.UserProfile.getUser\lInformation" alt="" coords="223,55,401,93"/>
+<area shape="rect" id="node7" href="$classmodel_1_1_user_profile.html#a364d49691581abd4d64a51434573b4e3" title="model.UserProfile.getWatch\lHistory" alt="" coords="218,117,405,156"/>
+<area shape="rect" id="node4" href="$classmodel_1_1_user.html#a73b2522bcb32e0bcfdeae69bd715115c" title="model.User.getLoginID" alt="" coords="464,12,621,37"/>
+<area shape="rect" id="node5" href="$classmodel_1_1_user.html#ac50d8bd1c6b55d5793e22828055d5357" title="model.User.getPassword" alt="" coords="458,61,628,87"/>
+<area shape="rect" id="node6" href="$classmodel_1_1_point.html#ab9e80f2304e92995d62d068c9187cffc" title="model.Point.getPoint" alt="" coords="471,111,615,136"/>
+</map>

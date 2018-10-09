@@ -1,0 +1,4 @@
+<map id="project.monsterBox.logic.Deserializer&lt; T &gt;" name="project.monsterBox.logic.Deserializer&lt; T &gt;">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profile_deserializer.html" title="{project::monsterBox\l::logic::profile::UserProfile\lDeserializer\&lt; UserProfile \&gt;\n|&#45; profile\l&#45; isNew\l|+ UserProfileDeserializer()\l+ doDeserialize()\l+ getDeserealizedObject()\l}" alt="" coords="5,220,186,360"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_file_list_deserializer.html" title="{project::monsterBox\l::logic::upload::UploadFile\lListDeserializer\&lt; UploadFileList \&gt;\n|&#45; uploadFileList\l&#45; isNew\l|+ UploadFileListDeserializer()\l+ doDeserialize()\l+ getDeserealizedObject()\l}" alt="" coords="210,220,430,360"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="project.monsterBox.model.UserProfile.getWatchHistory" name="project.monsterBox.model.UserProfile.getWatchHistory">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profiling_system.html#a97871b4e86cd3e6786fe192b190e8b3e" title="project.monsterBox.logic.profile.\lUserProfilingSystem.watchHistory" alt="" coords="254,5,476,44"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profiling_system.html#ab8147c113a3c7497e3d99424d4e226ef" title="project.monsterBox.logic.profile.\lUserProfilingSystem.addWatchHistory" alt="" coords="242,68,488,107"/>
+<area shape="rect" id="node5" href="$classproject_1_1monster_box_1_1servlet_1_1_profile_servlet.html#a0485496053fc5ba382eada9b3b5d2c11" title="project.monsterBox.servlet.\lProfileServlet.doGet" alt="" coords="274,131,456,169"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1servlet_1_1_details_servlet.html#a224090e24cdc055d92b6f3133c8c1a23" title="project.monsterBox.servlet.\lDetailsServlet.doGet" alt="" coords="536,68,719,107"/>
+</map>

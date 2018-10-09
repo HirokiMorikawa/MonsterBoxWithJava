@@ -1,0 +1,8 @@
+<map id="logic.profile.UserProfilingSystem.UserProfilingSystem" name="logic.profile.UserProfilingSystem.UserProfilingSystem">
+<area shape="rect" id="node2" href="$classlogic_1_1access_1_1_profile_accessor.html#a1c97099a1a89a091ae2dfda9acb0716b" title="logic.access.ProfileAccessor.get\lUserProfile" alt="" coords="244,104,455,143"/>
+<area shape="rect" id="node3" href="$classmodel_1_1_user_profile.html#a06b1be22d7d21ac5efdff98e3cf4cd38" title="model.UserProfile.getUser" alt="" coords="528,5,706,31"/>
+<area shape="rect" id="node4" href="$classmodel_1_1_user.html#a28f20bcbe2b5411852e80577582c30ca" title="model.User.setLoginID" alt="" coords="539,55,695,80"/>
+<area shape="rect" id="node5" href="$classlogic_1_1access_1_1_profile_accessor.html#a01f24dab13cfdf65b816ac0bc9c50849" title="logic.access.ProfileAccessor.exists\lUserProfile" alt="" coords="503,104,731,143"/>
+<area shape="rect" id="node6" href="$classlogic_1_1_deserializer.html#a04cf446d1dc0d6181072ef327fc4f8d8" title="logic.Deserializer.doDeserialize" alt="" coords="514,167,720,192"/>
+<area shape="rect" id="node7" href="$classlogic_1_1_deserializer.html#a1d6e0c476c7b55a498fbfb1a96a35e28" title="logic.Deserializer.getDeserealized\lObject" alt="" coords="506,216,728,255"/>
+</map>

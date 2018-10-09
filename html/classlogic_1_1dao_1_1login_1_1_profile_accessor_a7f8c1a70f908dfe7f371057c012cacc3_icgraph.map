@@ -1,0 +1,12 @@
+<map id="logic.dao.login.ProfileAccessor.existsUserProfile" name="logic.dao.login.ProfileAccessor.existsUserProfile">
+<area shape="rect" id="node2" href="$classlogic_1_1dao_1_1login_1_1_profile_accessor.html#a03a5e474010419ff3981ac7b319e461c" title="logic.dao.login.ProfileAccessor.get\lUserProfile" alt="" coords="293,55,518,93"/>
+<area shape="rect" id="node5" href="$classlogic_1_1profile_1_1_user_profiling_system.html#aed551ba3f41155e54e8051659e4fbd67" title="logic.profile.UserProfiling\lSystem.save" alt="" coords="599,284,768,323"/>
+<area shape="rect" id="node10" href="$classlogic_1_1profile_1_1_user_profiling_system.html#a55dfbcc367652e9431f52c4a2e116901" title="logic.profile.UserProfiling\lSystem.hasUserProfile" alt="" coords="321,169,490,208"/>
+<area shape="rect" id="node3" href="$classlogic_1_1dao_1_1login_1_1_profile_accessor.html#ab8fbf13d2cb1b7a3e3804e870ea1fbff" title="logic.dao.login.ProfileAccessor.main" alt="" coords="566,5,801,31"/>
+<area shape="rect" id="node4" href="$classlogic_1_1profile_1_1_user_profiling_system.html#a0b7ffcf2db1308eabb14bb78450b9271" title="logic.profile.UserProfiling\lSystem.UserProfilingSystem" alt="" coords="588,55,778,93"/>
+<area shape="rect" id="node6" href="$classlogic_1_1login_1_1_login_system.html#ac9d2e80d70a5df4e0abb9145356f431b" title="logic.login.LoginSystem.do\lLogin" alt="" coords="851,167,1031,205"/>
+<area shape="rect" id="node9" href="$classlogic_1_1login_1_1_sign_in_system.html#a8f8825adedd7740bf7e77e8cfbf3ba9c" title="logic.login.SignInSystem.do\lSign_in" alt="" coords="849,229,1034,268"/>
+<area shape="rect" id="node7" href="$classlogic_1_1login_1_1_auth_system.html#a394e9a68ffdb70c50d18232de0997a2a" title="logic.login.AuthSystem.doAuth" alt="" coords="1082,205,1284,231"/>
+<area shape="rect" id="node8" href="$classcontroller_1_1_login_controller.html#af702d416476b408c29cdc30ba398942b" title="controller.LoginController.doPost" alt="" coords="1332,205,1546,231"/>
+<area shape="rect" id="node11" href="$classlogic_1_1profile_1_1_user_profiling_system.html#a4b12d1c1e4eba63800212bbbe1f5b28a" title="logic.profile.UserProfiling\lSystem.createUserProfileIfNotExist" alt="" coords="568,169,798,208"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="project.monsterBox.servlet.PostCommentServlet.doPost" name="project.monsterBox.servlet.PostCommentServlet.doPost">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1servlet_1_1_html_sanitizing_util.html#a81ff189134935296bb8b46e8db460a51" title="project.monsterBox.servlet.\lHtmlSanitizingUtil.sanitize" alt="" coords="247,5,430,44"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1model_1_1_upload_file.html#a889982f8fc2fccd4dc66c4ce3da1f9c3" title="project.monsterBox.model.\lUploadFile.getCommentList" alt="" coords="246,68,432,107"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1model_1_1_comment_list.html#a746daf89305b9159d53d10674439064b" title="project.monsterBox.model.\lCommentList.addComment" alt="" coords="247,131,431,169"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="logic.dao.login.ProfileAccessor.saveUserPrifile" name="logic.dao.login.ProfileAccessor.saveUserPrifile">
+<area shape="rect" id="node2" href="$classlogic_1_1profile_1_1_user_profiling_system.html#aed551ba3f41155e54e8051659e4fbd67" title="logic.profile.UserProfiling\lSystem.save" alt="" coords="318,5,487,44"/>
+<area shape="rect" id="node7" href="$classlogic_1_1profile_1_1_user_profiling_system.html#a4b12d1c1e4eba63800212bbbe1f5b28a" title="logic.profile.UserProfiling\lSystem.createUserProfileIfNotExist" alt="" coords="287,68,517,107"/>
+<area shape="rect" id="node3" href="$classlogic_1_1login_1_1_login_system.html#ac9d2e80d70a5df4e0abb9145356f431b" title="logic.login.LoginSystem.do\lLogin" alt="" coords="568,5,747,44"/>
+<area shape="rect" id="node6" href="$classlogic_1_1login_1_1_sign_in_system.html#a8f8825adedd7740bf7e77e8cfbf3ba9c" title="logic.login.SignInSystem.do\lSign_in" alt="" coords="565,68,750,107"/>
+<area shape="rect" id="node4" href="$classlogic_1_1login_1_1_auth_system.html#a394e9a68ffdb70c50d18232de0997a2a" title="logic.login.AuthSystem.doAuth" alt="" coords="798,44,1000,69"/>
+<area shape="rect" id="node5" href="$classcontroller_1_1_login_controller.html#af702d416476b408c29cdc30ba398942b" title="controller.LoginController.doPost" alt="" coords="1048,44,1262,69"/>
+</map>

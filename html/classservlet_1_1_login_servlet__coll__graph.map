@@ -1,0 +1,4 @@
+<map id="servlet.LoginServlet" name="servlet.LoginServlet">
+<area shape="rect" id="node3" href="$classlogic_1_1login_1_1_login_system.html" title="{logic.login.LoginSystem\n||+ LoginSystem()\l+ doLogin()\l&#45; login()\l}" alt="" coords="116,273,278,373"/>
+<area shape="rect" id="node4" href="$classlogic_1_1access_1_1_authen_user_file_accessor.html" title="{logic.access.AuthenUserFile\lAccessor\n|&#45; defaultPath\l&#45; filename\l|+ AuthenUserFileAccessor()\l+ findAll()\l+ findByUser()\l+ insertUser()\l+ deleteUser()\l+ toUser()\l+ authFile()\l+ getPath()\l&#45; createAuthenUserFile()\l}" alt="" coords="102,5,292,212"/>
+</map>

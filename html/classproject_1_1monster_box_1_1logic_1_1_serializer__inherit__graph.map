@@ -1,0 +1,4 @@
+<map id="project.monsterBox.logic.Serializer" name="project.monsterBox.logic.Serializer">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profile_serializer.html" title="{project.monsterBox.logic.profile.\lUserProfileSerializer\n|&#45; profile\l|+ UserProfileSerializer()\l+ UserProfileSerializer()\l+ doSerialize()\l}" alt="" coords="5,207,216,320"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_file_list_serializer.html" title="{project.monsterBox.logic.upload.\lUploadFileListSerializer\n|&#45; uploadFileList\l|+ UploadFileListSerializer()\l+ doSerialize()\l}" alt="" coords="241,213,456,313"/>
+</map>

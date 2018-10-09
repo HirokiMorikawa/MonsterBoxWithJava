@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="stylesheet" href="./../css/style.css" />
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+	rel="stylesheet" />
+<title>ファイル詳細</title>
+<script src="./../js/detailfile.js"></script>
+<script src="./../js/modal_window.js"></script>
+<script src="./../js/main.js"></script>
+</head>
+<body>
+	<header>
+		<nav id="nav">
+			<div class="left">
+				<img src="./../img/hoyahoya.png"/>
+			</div>
+			<ul class="right">
+			</ul>
+		</nav>
+	</header>
+	<div class="container">
+		<div class="row">
+			<div class="col m4">
+				<div class="card">
+					<ul id="user">
+					</ul>
+				</div>
+			</div>
+			<div class="col m8">
+				<div class="container">
+					<div class="row">
+						<div id="file" class="col m8"></div>
+						<div id="d_a_f_button" class="col m4"></div>
+					</div>
+					<div class="row">
+						<div class="col m12">
+							<div class="container">
+								<form action="./postComment" method="post">
+									<label for="comment"> コメント入力欄 </label> <input id="comment"
+										name="comment" />
+									<div>
+										<input type="submit" value="送信する">
+									</div>
+								</form>
+							</div>
+						</div>
+					</div>
+					<h1>コメント一覧</h1>
+					<div id="commentView"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

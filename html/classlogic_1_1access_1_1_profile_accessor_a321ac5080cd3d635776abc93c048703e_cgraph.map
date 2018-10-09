@@ -1,0 +1,13 @@
+<map id="logic.access.ProfileAccessor.main" name="logic.access.ProfileAccessor.main">
+<area shape="rect" id="node2" href="$classlogic_1_1access_1_1_profile_accessor.html#a49802372f71b71f88c327237fc5bad2c" title="logic.access.ProfileAccessor.\lProfileAccessor" alt="" coords="285,69,478,108"/>
+<area shape="rect" id="node3" href="$classlogic_1_1access_1_1_profile_accessor.html#a1c97099a1a89a091ae2dfda9acb0716b" title="logic.access.ProfileAccessor.get\lUserProfile" alt="" coords="275,132,487,171"/>
+<area shape="rect" id="node9" href="$classmodel_1_1_user_profile.html#a085caab7f905842010ebe2fa1f1f40d8" title="model.UserProfile.getUser\lInformation" alt="" coords="293,296,470,335"/>
+<area shape="rect" id="node4" href="$classmodel_1_1_user_profile.html#a06b1be22d7d21ac5efdff98e3cf4cd38" title="model.UserProfile.getUser" alt="" coords="560,5,738,31"/>
+<area shape="rect" id="node5" href="$classmodel_1_1_user.html#a28f20bcbe2b5411852e80577582c30ca" title="model.User.setLoginID" alt="" coords="571,55,727,80"/>
+<area shape="rect" id="node6" href="$classlogic_1_1access_1_1_profile_accessor.html#a01f24dab13cfdf65b816ac0bc9c50849" title="logic.access.ProfileAccessor.exists\lUserProfile" alt="" coords="535,104,763,143"/>
+<area shape="rect" id="node7" href="$classlogic_1_1_deserializer.html#a04cf446d1dc0d6181072ef327fc4f8d8" title="logic.Deserializer.doDeserialize" alt="" coords="546,167,752,192"/>
+<area shape="rect" id="node8" href="$classlogic_1_1_deserializer.html#a1d6e0c476c7b55a498fbfb1a96a35e28" title="logic.Deserializer.getDeserealized\lObject" alt="" coords="538,216,760,255"/>
+<area shape="rect" id="node10" href="$classmodel_1_1_user.html#a73b2522bcb32e0bcfdeae69bd715115c" title="model.User.getLoginID" alt="" coords="570,279,727,304"/>
+<area shape="rect" id="node11" href="$classmodel_1_1_user.html#ac50d8bd1c6b55d5793e22828055d5357" title="model.User.getPassword" alt="" coords="564,328,734,353"/>
+<area shape="rect" id="node12" href="$classmodel_1_1_point.html#ab9e80f2304e92995d62d068c9187cffc" title="model.Point.getPoint" alt="" coords="577,377,721,403"/>
+</map>

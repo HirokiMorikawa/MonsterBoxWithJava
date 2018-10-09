@@ -1,0 +1,12 @@
+<map id="logic.Serializer.doSerialize" name="logic.Serializer.doSerialize">
+<area shape="rect" id="node2" href="$classlogic_1_1access_1_1_profile_accessor.html#ad341119d0b31eee91d21c2b8eb0a120e" title="logic.access.ProfileAccessor.save\lUserProfile" alt="" coords="230,101,452,140"/>
+<area shape="rect" id="node10" href="$classlogic_1_1login_1_1_sign_in_system.html#a0981bf3d4da468ed94ad7898c2da06ea" title="logic.login.SignInSystem.sign_in" alt="" coords="508,165,721,191"/>
+<area shape="rect" id="node11" href="$classlogic_1_1_serializer.html#a45cb5d9a92e50a3faa95a1aeb1b163e2" title="logic.Serializer.setFileName" alt="" coords="248,216,434,241"/>
+<area shape="rect" id="node3" href="$classlogic_1_1profile_1_1_user_profiling_system.html#aed551ba3f41155e54e8051659e4fbd67" title="logic.profile.UserProfiling\lSystem.save" alt="" coords="530,40,699,79"/>
+<area shape="rect" id="node9" href="$classlogic_1_1profile_1_1_user_profiling_system.html#a4b12d1c1e4eba63800212bbbe1f5b28a" title="logic.profile.UserProfiling\lSystem.createUserProfileIfNotExist" alt="" coords="500,103,729,141"/>
+<area shape="rect" id="node4" href="$classlogic_1_1login_1_1_login_system.html#a2484e24c86f8f13fc706b13c3059de42" title="logic.login.LoginSystem.do\lLogin" alt="" coords="795,68,975,107"/>
+<area shape="rect" id="node6" href="$classlogic_1_1login_1_1_sign_in_system.html#a6ea2e11e772f24338ef793d75dbb1ca7" title="logic.login.SignInSystem.do\lSign_in" alt="" coords="792,131,977,169"/>
+<area shape="rect" id="node8" href="$classlogic_1_1upload_1_1_upload_logic.html#a8bc26ec90b4b3f7c5cfe7478f2341e8a" title="logic.upload.UploadLogic.update\lUserProfile" alt="" coords="777,5,992,44"/>
+<area shape="rect" id="node5" href="$classservlet_1_1_login_servlet.html#affd84ca3d8c2c8b38c94c6669958e96d" title="servlet.LoginServlet.doPost" alt="" coords="1043,75,1226,100"/>
+<area shape="rect" id="node7" href="$classservlet_1_1_sign_in_servlet.html#a5585a597a5d5f88dcd30d8453f6aef3c" title="servlet.SignInServlet.doPost" alt="" coords="1040,137,1229,163"/>
+</map>

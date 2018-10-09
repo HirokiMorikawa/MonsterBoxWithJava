@@ -1,0 +1,6 @@
+<map id="logic.profile.UserProfilingSystem.createUserProfileIfNotExist" name="logic.profile.UserProfilingSystem.createUserProfileIfNotExist">
+<area shape="rect" id="node2" href="$classlogic_1_1login_1_1_login_system.html#a2484e24c86f8f13fc706b13c3059de42" title="logic.login.LoginSystem.do\lLogin" alt="" coords="285,5,465,44"/>
+<area shape="rect" id="node4" href="$classlogic_1_1login_1_1_sign_in_system.html#a6ea2e11e772f24338ef793d75dbb1ca7" title="logic.login.SignInSystem.do\lSign_in" alt="" coords="283,68,468,107"/>
+<area shape="rect" id="node3" href="$classservlet_1_1_login_servlet.html#affd84ca3d8c2c8b38c94c6669958e96d" title="servlet.LoginServlet.doPost" alt="" coords="519,12,702,37"/>
+<area shape="rect" id="node5" href="$classservlet_1_1_sign_in_servlet.html#a5585a597a5d5f88dcd30d8453f6aef3c" title="servlet.SignInServlet.doPost" alt="" coords="516,75,705,100"/>
+</map>

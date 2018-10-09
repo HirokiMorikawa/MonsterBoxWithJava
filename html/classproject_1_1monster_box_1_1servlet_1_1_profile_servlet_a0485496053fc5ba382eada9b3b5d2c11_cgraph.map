@@ -1,0 +1,7 @@
+<map id="project.monsterBox.servlet.ProfileServlet.doGet" name="project.monsterBox.servlet.ProfileServlet.doGet">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1model_1_1_user_profile.html#a90ed66947a00cb64e41a70cdadecb8e9" title="project.monsterBox.model.\lUserProfile.getUploadHistory" alt="" coords="243,5,436,44"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1model_1_1_user_profile.html#ae7eeb30859177af2322781022c0e7373" title="project.monsterBox.model.\lUserProfile.getWatchHistory" alt="" coords="245,68,434,107"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1model_1_1_user_profile.html#a22a98d42f652a5fe07c64ac4d3ba58b8" title="project.monsterBox.model.\lUserProfile.getUserFavoriteList" alt="" coords="236,131,443,169"/>
+<area shape="rect" id="node5" href="$classproject_1_1monster_box_1_1model_1_1_user_profile.html#aa8930d3939b64f03b6af1c323970b629" title="project.monsterBox.model.\lUserProfile.getUser" alt="" coords="250,193,429,232"/>
+<area shape="rect" id="node6" href="$classproject_1_1monster_box_1_1model_1_1_user.html#a8a53621d34a71ca2a6f16aba5c723075" title="project.monsterBox.model.\lUser.getLoginID" alt="" coords="250,256,429,295"/>
+</map>

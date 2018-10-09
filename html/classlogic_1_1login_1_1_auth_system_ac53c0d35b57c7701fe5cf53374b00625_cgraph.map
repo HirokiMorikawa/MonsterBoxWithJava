@@ -1,0 +1,8 @@
+<map id="logic.login.AuthSystem.AuthSystem" name="logic.login.AuthSystem.AuthSystem">
+<area shape="rect" id="node2" href="$classlogic_1_1login_1_1_auth_system.html#a5f0000be62b8affc2b93444acf043f2e" title="logic.login.AuthSystem.set\lParams" alt="" coords="241,48,418,87"/>
+<area shape="rect" id="node5" href="$classlogic_1_1login_1_1_auth_system.html#a85d8f5ae445aea298f2afd69d6168663" title="logic.login.AuthSystem.init" alt="" coords="241,111,418,136"/>
+<area shape="rect" id="node3" href="$classmodel_1_1_user.html#a28f20bcbe2b5411852e80577582c30ca" title="model.User.setLoginID" alt="" coords="492,5,649,31"/>
+<area shape="rect" id="node4" href="$classmodel_1_1_user.html#aea6892aee94929a724acea844061fa70" title="model.User.setPassword" alt="" coords="486,55,655,80"/>
+<area shape="rect" id="node6" href="$classlogic_1_1access_1_1_authen_user_file_accessor.html#a699bec8f1e9f07f976ba10a9c15c40fc" title="logic.access.AuthenUserFile\lAccessor.createAuthenUserFile" alt="" coords="466,104,674,143"/>
+<area shape="rect" id="node7" href="$classlogic_1_1access_1_1_authen_user_file_accessor.html#abb574dc48270a26feecc54d7d9a34502" title="logic.access.AuthenUserFile\lAccessor.getPath" alt="" coords="722,104,912,143"/>
+</map>

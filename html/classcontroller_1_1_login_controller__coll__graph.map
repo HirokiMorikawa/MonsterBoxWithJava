@@ -1,0 +1,8 @@
+<map id="controller.LoginController" name="controller.LoginController">
+<area shape="rect" id="node3" href="$classlogic_1_1login_1_1_auth_system.html" title="{logic.login.AuthSystem\n|&#45; f_type\l&#45; host\l&#45; truePath\l&#45; isRedirect\l&#45; canExecDoAuth\l|+ AuthSystem()\l+ AuthSystem()\l+ setParams()\l+ doAuth()\l+ isRedirect()\l+ idCheck()\l&#45; init()\l}" alt="" coords="269,515,425,721"/>
+<area shape="rect" id="node4" href="$classmodel_1_1_user.html" title="{model.User\n|&#45; loginID\l&#45; password\l|+ User()\l+ User()\l+ setLoginID()\l+ getLoginID()\l+ setPassword()\l+ getPassword()\l+ equals()\l+ toString()\l}" alt="" coords="5,273,124,453"/>
+<area shape="rect" id="node6" href="$classlogic_1_1login_1_1_user_check_system.html" title="{logic.login.UserCheckSystem\n||+ UserCheckSystem()\l+ doCheck()\l+ idCheck()\l}" alt="" coords="149,313,343,413"/>
+<area shape="rect" id="node7" href="$classlogic_1_1access_1_1_authen_user_file_accessor.html" title="{logic.access.AuthenUserFile\lAccessor\n|&#45; defaultPath\l&#45; filename\l|+ AuthenUserFileAccessor()\l+ findAll()\l+ findByUser()\l+ insertUser()\l+ deleteUser()\l+ createAuthenUserFile()\l+ toUser()\l+ authFile()\l+ getPath()\l}" alt="" coords="355,5,545,212"/>
+<area shape="rect" id="node8" href="$classlogic_1_1login_1_1_sign_in_system.html" title="{logic.login.SignInSystem\n||+ SignInSystem()\l+ doSign_in()\l&#45; sign_in()\l}" alt="" coords="367,313,533,413"/>
+<area shape="rect" id="node9" href="$classlogic_1_1login_1_1_login_system.html" title="{logic.login.LoginSystem\n||+ LoginSystem()\l+ doLogin()\l&#45; login()\l}" alt="" coords="557,313,719,413"/>
+</map>

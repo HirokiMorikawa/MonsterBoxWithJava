@@ -1,0 +1,9 @@
+<map id="project.monsterBox.model.UploadFileList.addUploadFile" name="project.monsterBox.model.UploadFileList.addUploadFile">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profiling_system.html#ab8147c113a3c7497e3d99424d4e226ef" title="project.monsterBox.logic.profile.\lUserProfilingSystem.addWatchHistory" alt="" coords="262,5,509,44"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profiling_system.html#ae4334a2353c9b45abd17a403d81ba55c" title="project.monsterBox.logic.profile.\lUserProfilingSystem.addUpdateFileHistory" alt="" coords="249,68,523,107"/>
+<area shape="rect" id="node6" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profiling_system.html#a35b9ad80054236ae8cd50183e25e6c3a" title="project.monsterBox.logic.profile.\lUserProfilingSystem.addFavorite" alt="" coords="278,131,494,169"/>
+<area shape="rect" id="node8" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_logic.html#a153457efac58db593f2f64d06277df1c" title="project.monsterBox.logic.upload.\lUploadLogic.registerToCentralStore" alt="" coords="270,193,502,232"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1servlet_1_1_details_servlet.html#a224090e24cdc055d92b6f3133c8c1a23" title="project.monsterBox.servlet.\lDetailsServlet.doGet" alt="" coords="587,5,770,44"/>
+<area shape="rect" id="node5" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_logic.html#a0b57f853295cb9226a46e957b4f73c8d" title="project.monsterBox.logic.upload.\lUploadLogic.updateUserProfile" alt="" coords="571,68,786,107"/>
+<area shape="rect" id="node7" href="$classproject_1_1monster_box_1_1servlet_1_1_faborite_button_servlet.html#ab89e3497d49eb40e574eb5167f46ea91" title="project.monsterBox.servlet.\lFaboriteButtonServlet.doGet" alt="" coords="583,131,773,169"/>
+</map>

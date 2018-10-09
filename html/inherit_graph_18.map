@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1model_1_1_abator.html" title="project.monsterBox.model.\lAbator" alt="" coords="158,5,338,44"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1model_1_1_all_avatar.html" title="project.monsterBox.model.\lAllAvatar" alt="" coords="158,68,338,107"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1model_1_1_comment.html" title="project.monsterBox.model.\lComment" alt="" coords="158,131,338,169"/>
+<area shape="rect" id="node6" href="$classproject_1_1monster_box_1_1model_1_1_comment_list.html" title="project.monsterBox.model.\lCommentList" alt="" coords="158,193,338,232"/>
+<area shape="rect" id="node7" href="$classproject_1_1monster_box_1_1model_1_1_follow_user_list.html" title="project.monsterBox.model.\lFollowUserList" alt="" coords="158,256,338,295"/>
+<area shape="rect" id="node8" href="$classproject_1_1monster_box_1_1model_1_1_upload_file.html" title="project.monsterBox.model.\lUploadFile" alt="" coords="158,319,338,357"/>
+<area shape="rect" id="node9" href="$classproject_1_1monster_box_1_1model_1_1_upload_file_list.html" title="project.monsterBox.model.\lUploadFileList" alt="" coords="158,381,338,420"/>
+<area shape="rect" id="node10" href="$classproject_1_1monster_box_1_1model_1_1_user.html" title="project.monsterBox.model.User" alt="" coords="144,444,352,469"/>
+<area shape="rect" id="node11" href="$classproject_1_1monster_box_1_1model_1_1_user_profile.html" title="project.monsterBox.model.\lUserProfile" alt="" coords="158,493,338,532"/>
+<area shape="rect" id="node5" href="$classproject_1_1monster_box_1_1model_1_1_owner_comment.html" title="project.monsterBox.model.\lOwnerComment" alt="" coords="400,131,580,169"/>
+</map>

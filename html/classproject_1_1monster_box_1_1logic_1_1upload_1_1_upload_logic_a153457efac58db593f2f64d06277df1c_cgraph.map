@@ -1,0 +1,5 @@
+<map id="project.monsterBox.logic.upload.UploadLogic.registerToCentralStore" name="project.monsterBox.logic.upload.UploadLogic.registerToCentralStore">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1model_1_1_upload_file_list.html#a8c21eaf4b06c92aa695fd163c1048a57" title="project.monsterBox.model.\lUploadFileList.addUploadFile" alt="" coords="303,5,499,44"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_file_list_serializer.html#a53d7efc24bac543cc060de0a50166e92" title="project.monsterBox.logic.upload.\lUploadFileListSerializer.doSerialize" alt="" coords="286,68,516,107"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1logic_1_1_serializer.html#a0cd1189e1d58f2f9012ed15fc6d6ba70" title="project.monsterBox.logic.\lSerializer.getObjectOutputStream" alt="" coords="564,68,784,107"/>
+</map>

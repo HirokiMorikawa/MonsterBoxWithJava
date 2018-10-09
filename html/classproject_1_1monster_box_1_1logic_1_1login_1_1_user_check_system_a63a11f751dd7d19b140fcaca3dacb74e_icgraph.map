@@ -1,0 +1,4 @@
+<map id="project.monsterBox.logic.login.UserCheckSystem.idCheck" name="project.monsterBox.logic.login.UserCheckSystem.idCheck">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1login_1_1_user_check_system.html#a6fbab8ece49dca0ed4e8ac6a978e74cd" title="project.monsterBox.logic.login.\lUserCheckSystem.doCheck" alt="" coords="256,5,459,44"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1servlet_1_1_account_check_servlet.html#aa11c72f79268b8d81c7e27bb3069f3ec" title="project.monsterBox.servlet.\lAccountCheckServlet.doPost" alt="" coords="507,5,701,44"/>
+</map>

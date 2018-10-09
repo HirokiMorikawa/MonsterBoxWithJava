@@ -1,0 +1,4 @@
+<map id="logic.login.UserCheckSystem.idCheck" name="logic.login.UserCheckSystem.idCheck">
+<area shape="rect" id="node2" href="$classlogic_1_1login_1_1_user_check_system.html#af8e2fc855310718de6d96d773521f275" title="logic.login.UserCheckSystem.do\lCheck" alt="" coords="262,5,475,44"/>
+<area shape="rect" id="node3" href="$classservlet_1_1_account_check_servlet.html#ae1c74c79e6ed00f70ecde99dcb3ff75a" title="servlet.AccountCheckServlet.doPost" alt="" coords="523,12,760,37"/>
+</map>

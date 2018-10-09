@@ -1,0 +1,7 @@
+<map id="logic.profile.UserProfileDeserializer.main" name="logic.profile.UserProfileDeserializer.main">
+<area shape="rect" id="node2" href="$classlogic_1_1profile_1_1_user_profile_deserializer.html#a7db89e76f9da5394e68df4bf023a3209" title="logic.profile.UserProfile\lDeserializer.UserProfileDeserializer" alt="" coords="212,5,443,44"/>
+<area shape="rect" id="node3" href="$classlogic_1_1_serializer.html#a944e23e760d566b3fc572a85104eadcf" title="logic.Serializer.doSerialize" alt="" coords="239,68,416,93"/>
+<area shape="rect" id="node4" href="$classlogic_1_1_deserializer.html#a04cf446d1dc0d6181072ef327fc4f8d8" title="logic.Deserializer.doDeserialize" alt="" coords="224,117,431,143"/>
+<area shape="rect" id="node5" href="$classlogic_1_1_deserializer.html#a1d6e0c476c7b55a498fbfb1a96a35e28" title="logic.Deserializer.getDeserealized\lObject" alt="" coords="216,167,438,205"/>
+<area shape="rect" id="node6" href="$classmodel_1_1_user_profile.html#a5ff0d937c8490394b048f9e015c4b15a" title="model.UserProfile.setPoint" alt="" coords="238,229,417,255"/>
+</map>

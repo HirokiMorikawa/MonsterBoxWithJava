@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="stylesheet" href="./css/style.css" />
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+	rel="stylesheet" />
+<title>トップページ</title>
+<script src="./js/account.js"></script>
+<script src="./js/modal_window.js"></script>
+<script src="./js/main.js"></script>
+</head>
+<body>
+	<header>
+		<nav id="nav">
+			<div class="left">
+				<img src="img/hoyahoya.png"/>
+			</div>
+			<ul class="right">
+				<li><a href="./top">service</a></li>
+				<li><a class="open_modal"><i class="material-icons">create</i>sign_in</a></li>
+			</ul>
+			<i class="material-icons" id="side-button">menu</i>
+		</nav>
+	</header>
+	<div class="container">
+		<section>
+			<h4>ようこそ</h4>
+			<h5>ログインフォーム</h5>
+			<form action="./login" method="post">
+				<div>
+					<label for="l_userid">ユーザID（必須）</label> <input type="text"
+						id="l_userid" name="userid" required />
+				</div>
+				<div>
+					<label for="l_password">パスワード（必須）</label> <input type="password"
+						id="l_password" name="password" required />
+				</div>
+				<button type="submit" name="f_type" value="submit">ログイン</button>
+			</form>
+		</section>
+	</div>
+	<!-- ここでmodal-windowを適用してふわっと表示させる -->
+	<aside id="float_box" class="container">
+		<h4>ユーザアカウントを作成</h4>
+		<div>
+			<label for="s_userid">ユーザID（必須）</label> <input type="text"
+				id="s_userid" name="userid" required />
+			<div id="resultUser"></div>
+		</div>
+		<div>
+			<label for="s_password">パスワード（必須）</label> <input type="password"
+				id="s_password" name="password" value="" required />
+		</div>
+		<button id="s_button" name="f_type" value="sign_in">サインイン</button>
+		<div id="resultSignin"></div>
+	</aside>
+	<!-- modal-windowでoverlay表示を行うためのタグを追加する -->
+	<div id="modal-overlay"></div>
+</body>
+</html>

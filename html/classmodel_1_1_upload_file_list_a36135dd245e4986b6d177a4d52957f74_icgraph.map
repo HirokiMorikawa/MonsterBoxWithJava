@@ -1,0 +1,6 @@
+<map id="model.UploadFileList.addUploadFile" name="model.UploadFileList.addUploadFile">
+<area shape="rect" id="node2" href="$classlogic_1_1profile_1_1_user_profiling_system.html#acf827b51c6ff19b9bdc8c67d277f40fa" title="logic.profile.UserProfiling\lSystem.addWatchHistory" alt="" coords="249,5,420,44"/>
+<area shape="rect" id="node3" href="$classlogic_1_1profile_1_1_user_profiling_system.html#aed61f09b738ffdcae7c513944fd97bc8" title="logic.profile.UserProfiling\lSystem.addUpdateFileHistory" alt="" coords="236,68,433,107"/>
+<area shape="rect" id="node5" href="$classlogic_1_1upload_1_1_upload_logic.html#a5427179cb66a68e022c89994e57a5088" title="logic.upload.UploadLogic.register\lToCentralStore" alt="" coords="225,131,444,169"/>
+<area shape="rect" id="node4" href="$classlogic_1_1upload_1_1_upload_logic.html#a8bc26ec90b4b3f7c5cfe7478f2341e8a" title="logic.upload.UploadLogic.update\lUserProfile" alt="" coords="492,68,706,107"/>
+</map>

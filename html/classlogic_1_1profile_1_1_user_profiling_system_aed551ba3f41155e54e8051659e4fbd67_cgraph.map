@@ -1,0 +1,7 @@
+<map id="logic.profile.UserProfilingSystem.save" name="logic.profile.UserProfilingSystem.save">
+<area shape="rect" id="node2" href="$classlogic_1_1access_1_1_profile_accessor.html#a01f24dab13cfdf65b816ac0bc9c50849" title="logic.access.ProfileAccessor.exists\lUserProfile" alt="" coords="222,5,449,44"/>
+<area shape="rect" id="node3" href="$classmodel_1_1_user_profile.html#a06b1be22d7d21ac5efdff98e3cf4cd38" title="model.UserProfile.getUser" alt="" coords="247,68,425,93"/>
+<area shape="rect" id="node4" href="$classmodel_1_1_user.html#a73b2522bcb32e0bcfdeae69bd715115c" title="model.User.getLoginID" alt="" coords="257,117,414,143"/>
+<area shape="rect" id="node5" href="$classlogic_1_1access_1_1_profile_accessor.html#ad341119d0b31eee91d21c2b8eb0a120e" title="logic.access.ProfileAccessor.save\lUserProfile" alt="" coords="225,167,447,205"/>
+<area shape="rect" id="node6" href="$classlogic_1_1_serializer.html#a944e23e760d566b3fc572a85104eadcf" title="logic.Serializer.doSerialize" alt="" coords="497,173,674,199"/>
+</map>

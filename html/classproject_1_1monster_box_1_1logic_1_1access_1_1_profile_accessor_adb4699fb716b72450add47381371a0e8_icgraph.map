@@ -1,0 +1,12 @@
+<map id="project.monsterBox.logic.access.ProfileAccessor.saveUserProfile" name="project.monsterBox.logic.access.ProfileAccessor.saveUserProfile">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profiling_system.html#ad54b8506884375d4bbf881f580df64e7" title="project.monsterBox.logic.profile.\lUserProfilingSystem.save" alt="" coords="288,135,499,173"/>
+<area shape="rect" id="node11" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profiling_system.html#a6167e286792223d1f0f60a5183da6072" title="project.monsterBox.logic.profile.\lUserProfilingSystem.createUserProfile\lIfNotExist" alt="" coords="270,59,518,111"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1logic_1_1login_1_1_login_system.html#a02a3666da63854222b9a9e5a4c38f9f2" title="project.monsterBox.logic.login.\lLoginSystem.doLogin" alt="" coords="572,5,775,44"/>
+<area shape="rect" id="node5" href="$classproject_1_1monster_box_1_1logic_1_1login_1_1_sign_in_system.html#ae6de933be394cbc75bce2a4f63f33b71" title="project.monsterBox.logic.login.\lSignInSystem.doSign_in" alt="" coords="572,68,775,107"/>
+<area shape="rect" id="node7" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_logic.html#a0b57f853295cb9226a46e957b4f73c8d" title="project.monsterBox.logic.upload.\lUploadLogic.updateUserProfile" alt="" coords="566,256,781,295"/>
+<area shape="rect" id="node8" href="$classproject_1_1monster_box_1_1servlet_1_1_avatar_servlet.html#a6626b77f51e1785f6f46cf2af4c2e9bc" title="project.monsterBox.servlet.\lAvatarServlet.doGet" alt="" coords="582,319,765,357"/>
+<area shape="rect" id="node9" href="$classproject_1_1monster_box_1_1servlet_1_1_details_servlet.html#a224090e24cdc055d92b6f3133c8c1a23" title="project.monsterBox.servlet.\lDetailsServlet.doGet" alt="" coords="582,131,765,169"/>
+<area shape="rect" id="node10" href="$classproject_1_1monster_box_1_1servlet_1_1_faborite_button_servlet.html#ab89e3497d49eb40e574eb5167f46ea91" title="project.monsterBox.servlet.\lFaboriteButtonServlet.doGet" alt="" coords="579,193,769,232"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1servlet_1_1_login_servlet.html#a81c13343ff73f9b2116d01c88a8469ef" title="project.monsterBox.servlet.\lLoginServlet.doPost" alt="" coords="829,5,1012,44"/>
+<area shape="rect" id="node6" href="$classproject_1_1monster_box_1_1servlet_1_1_sign_in_servlet.html#afa23c37b3cd5fadf3b9cc4fca46d6e74" title="project.monsterBox.servlet.\lSignInServlet.doPost" alt="" coords="829,68,1012,107"/>
+</map>

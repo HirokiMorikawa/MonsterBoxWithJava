@@ -1,0 +1,4 @@
+<map id="logic.login.UserCheckSystem.doCheck" name="logic.login.UserCheckSystem.doCheck">
+<area shape="rect" id="node2" href="$classlogic_1_1login_1_1_auth_system.html#a394e9a68ffdb70c50d18232de0997a2a" title="logic.login.AuthSystem.doAuth" alt="" coords="267,12,469,37"/>
+<area shape="rect" id="node3" href="$classcontroller_1_1_login_controller.html#af702d416476b408c29cdc30ba398942b" title="controller.LoginController.doPost" alt="" coords="517,12,731,37"/>
+</map>

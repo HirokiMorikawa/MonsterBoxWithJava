@@ -1,0 +1,5 @@
+<map id="logic.access.AuthenUserFileAccessor.insertUser" name="logic.access.AuthenUserFileAccessor.insertUser">
+<area shape="rect" id="node2" href="$classlogic_1_1access_1_1_authen_user_file_accessor.html#a21491fa706ddcf4e3525439f3d6fae56" title="logic.access.AuthenUserFile\lAccessor.authFile" alt="" coords="243,5,432,44"/>
+<area shape="rect" id="node4" href="$classmodel_1_1_user.html#af817c53cbe23126d07aa29de7cfa5eef" title="model.User.toString" alt="" coords="268,68,407,93"/>
+<area shape="rect" id="node3" href="$classlogic_1_1access_1_1_authen_user_file_accessor.html#abb574dc48270a26feecc54d7d9a34502" title="logic.access.AuthenUserFile\lAccessor.getPath" alt="" coords="480,5,670,44"/>
+</map>

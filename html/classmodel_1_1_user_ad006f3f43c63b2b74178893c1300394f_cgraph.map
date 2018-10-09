@@ -1,0 +1,5 @@
+<map id="model.User.equals" name="model.User.equals">
+<area shape="rect" id="node2" href="$classmodel_1_1_user.html#a1554135c30e9bdbba2ae745665a1a10e" title="model.User.User" alt="" coords="210,5,330,31"/>
+<area shape="rect" id="node3" href="$classmodel_1_1_user.html#a73b2522bcb32e0bcfdeae69bd715115c" title="model.User.getLoginID" alt="" coords="191,55,348,80"/>
+<area shape="rect" id="node4" href="$classmodel_1_1_user.html#ac50d8bd1c6b55d5793e22828055d5357" title="model.User.getPassword" alt="" coords="185,104,355,129"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="logic.upload.UploadLogic.updateUserProfile" name="logic.upload.UploadLogic.updateUserProfile">
+<area shape="rect" id="node2" href="$classlogic_1_1profile_1_1_user_profiling_system.html#aed61f09b738ffdcae7c513944fd97bc8" title="logic.profile.UserProfiling\lSystem.addUpdateFileHistory" alt="" coords="268,68,466,107"/>
+<area shape="rect" id="node5" href="$classlogic_1_1profile_1_1_user_profiling_system.html#aed551ba3f41155e54e8051659e4fbd67" title="logic.profile.UserProfiling\lSystem.save" alt="" coords="283,187,451,225"/>
+<area shape="rect" id="node3" href="$classmodel_1_1_user_profile.html#a957f66d316cc8291eb0cda96e3254f19" title="model.UserProfile.getUpload\lHistory" alt="" coords="532,5,723,44"/>
+<area shape="rect" id="node4" href="$classmodel_1_1_upload_file_list.html#a36135dd245e4986b6d177a4d52957f74" title="model.UploadFileList.add\lUploadFile" alt="" coords="542,68,713,107"/>
+<area shape="rect" id="node6" href="$classlogic_1_1access_1_1_profile_accessor.html#a01f24dab13cfdf65b816ac0bc9c50849" title="logic.access.ProfileAccessor.exists\lUserProfile" alt="" coords="514,131,741,169"/>
+<area shape="rect" id="node7" href="$classmodel_1_1_user_profile.html#a06b1be22d7d21ac5efdff98e3cf4cd38" title="model.UserProfile.getUser" alt="" coords="539,193,716,219"/>
+<area shape="rect" id="node8" href="$classmodel_1_1_user.html#a73b2522bcb32e0bcfdeae69bd715115c" title="model.User.getLoginID" alt="" coords="549,243,706,268"/>
+<area shape="rect" id="node9" href="$classlogic_1_1access_1_1_profile_accessor.html#ad341119d0b31eee91d21c2b8eb0a120e" title="logic.access.ProfileAccessor.save\lUserProfile" alt="" coords="517,292,738,331"/>
+<area shape="rect" id="node10" href="$classlogic_1_1_serializer.html#a944e23e760d566b3fc572a85104eadcf" title="logic.Serializer.doSerialize" alt="" coords="789,299,966,324"/>
+</map>

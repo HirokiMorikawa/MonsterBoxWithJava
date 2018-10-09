@@ -1,0 +1,7 @@
+<map id="logic.profile.UserProfilingSystem" name="logic.profile.UserProfilingSystem">
+<area shape="rect" id="node2" href="$classlogic_1_1access_1_1_profile_accessor.html" title="{logic.access.ProfileAccessor\n|&#45; dir\l|+ ProfileAccessor()\l+ getUserProfile()\l+ saveUserProfile()\l+ deteleUserProfile()\l+ existsUserProfile()\l}" alt="" coords="5,461,196,588"/>
+<area shape="rect" id="node3" href="$classmodel_1_1_user_profile.html" title="{model.UserProfile\n|&#45; serialVersionUID\l|+ UserProfile()\l+ UserProfile()\l+ UserProfile()\l+ getUser()\l+ getAbator()\l+ getUserFavoriteList()\l+ getUploadHistory()\l+ getWatchHistory()\l+ setUser()\l+ setAbator()\l+ setUserFavoriteList()\l+ setUploadHistory()\l+ setWatchHistory()\l}" alt="" coords="219,408,376,641"/>
+<area shape="rect" id="node5" href="$classmodel_1_1_abator.html" title="{model.Abator\n||}" alt="" coords="181,193,281,267"/>
+<area shape="rect" id="node6" href="$classmodel_1_1_user.html" title="{model.User\n|&#45; loginID\l&#45; password\l|+ User()\l+ User()\l+ setLoginID()\l+ getLoginID()\l+ setPassword()\l+ getPassword()\l+ equals()\l+ toString()\l}" alt="" coords="305,140,424,320"/>
+<area shape="rect" id="node7" href="$classmodel_1_1_upload_file_list.html" title="{model.UploadFileList\n||+ UploadFileList()\l+ uploadFileList()\l+ addUploadFile()\l}" alt="" coords="448,180,593,280"/>
+</map>

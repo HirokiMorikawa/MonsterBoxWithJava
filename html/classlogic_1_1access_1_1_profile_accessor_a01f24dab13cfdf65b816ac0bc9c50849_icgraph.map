@@ -1,0 +1,12 @@
+<map id="logic.access.ProfileAccessor.existsUserProfile" name="logic.access.ProfileAccessor.existsUserProfile">
+<area shape="rect" id="node2" href="$classlogic_1_1access_1_1_profile_accessor.html#a1c97099a1a89a091ae2dfda9acb0716b" title="logic.access.ProfileAccessor.get\lUserProfile" alt="" coords="281,8,492,47"/>
+<area shape="rect" id="node4" href="$classlogic_1_1profile_1_1_user_profiling_system.html#aed551ba3f41155e54e8051659e4fbd67" title="logic.profile.UserProfiling\lSystem.save" alt="" coords="571,68,740,107"/>
+<area shape="rect" id="node10" href="$classlogic_1_1profile_1_1_user_profiling_system.html#a55dfbcc367652e9431f52c4a2e116901" title="logic.profile.UserProfiling\lSystem.hasUserProfile" alt="" coords="302,153,471,192"/>
+<area shape="rect" id="node3" href="$classlogic_1_1profile_1_1_user_profiling_system.html#a0b7ffcf2db1308eabb14bb78450b9271" title="logic.profile.UserProfiling\lSystem.UserProfilingSystem" alt="" coords="560,5,750,44"/>
+<area shape="rect" id="node5" href="$classlogic_1_1login_1_1_login_system.html#a2484e24c86f8f13fc706b13c3059de42" title="logic.login.LoginSystem.do\lLogin" alt="" coords="835,125,1015,164"/>
+<area shape="rect" id="node7" href="$classlogic_1_1login_1_1_sign_in_system.html#a6ea2e11e772f24338ef793d75dbb1ca7" title="logic.login.SignInSystem.do\lSign_in" alt="" coords="833,188,1018,227"/>
+<area shape="rect" id="node9" href="$classlogic_1_1upload_1_1_upload_logic.html#a8bc26ec90b4b3f7c5cfe7478f2341e8a" title="logic.upload.UploadLogic.update\lUserProfile" alt="" coords="818,63,1033,101"/>
+<area shape="rect" id="node6" href="$classservlet_1_1_login_servlet.html#affd84ca3d8c2c8b38c94c6669958e96d" title="servlet.LoginServlet.doPost" alt="" coords="1083,132,1267,157"/>
+<area shape="rect" id="node8" href="$classservlet_1_1_sign_in_servlet.html#a5585a597a5d5f88dcd30d8453f6aef3c" title="servlet.SignInServlet.doPost" alt="" coords="1081,195,1270,220"/>
+<area shape="rect" id="node11" href="$classlogic_1_1profile_1_1_user_profiling_system.html#a4b12d1c1e4eba63800212bbbe1f5b28a" title="logic.profile.UserProfiling\lSystem.createUserProfileIfNotExist" alt="" coords="540,183,770,221"/>
+</map>

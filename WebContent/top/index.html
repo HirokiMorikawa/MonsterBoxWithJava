@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="stylesheet" href="./../css/style.css" />
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+	rel="stylesheet" />
+<title>ユーザトップ</title>
+<script src="./../js/modal_window.js"></script>
+<script src="./../js/usertop.js"></script>
+<script src="./../js/main.js"></script>
+</head>
+<body>
+	<header>
+		<nav id="nav">
+			<div class="left">
+				<img src="./../img/hoyahoya.png"/>
+			</div>
+			<ul class="right">
+				<li><a href="./view.html">ファイル一覧</a></li>
+				<li><a class="open_modal">ファイルのアップロード</a></li>
+				<li><a href="./../logout">ログアウトする</a></li>
+			</ul>
+			<i class="material-icons" id="side-button">menu</i>
+		</nav>
+	</header>
+	<div class="container">
+		<div class="row">
+			<div class="col l3 m6 s12">
+				<div class="card">
+					<ul id="user">
+
+					</ul>
+				</div>
+			</div>
+			<div class="col l6 m6 s12">
+				<h1>最新のアップロード</h1>
+				<div id="new" class="flexcontainer"></div>
+			</div>
+			<div class="col l3 m6 s12">
+				<h1>ランキング</h1>
+				<div id="ranking" class="flexcontainer-column"></div>
+			</div>
+		</div>
+	</div>
+	<!-- ここでmodal-windowを適用してふわっと表示させる -->
+	<aside id="float_box" class="container">
+		<h4>ファイルをアップロードする</h4>
+		<form action="./upload" method="post" enctype="multipart/form-data">
+			<div>
+				<label for="title">タイトル（必須）</label> <input type="text" id="title"
+					name="title" required />
+				<div id="result"></div>
+			</div>
+			<div>
+				<label for="comment">一言コメント（必須）</label> <input type="text"
+					id="comment" name="comment" value="" required />
+			</div>
+			<div>
+				<label for="file">アップロードするファイル（必須）</label> <input id="file"
+					type="file" name="file" required />
+			</div>
+			<div>
+				<input id="submit" type="submit" value="アップロード" />
+			</div>
+		</form>
+	</aside>
+	<!-- modal-windowでoverlay表示を行うためのタグを追加する -->
+	<div id="modal-overlay"></div>
+</body>
+</html>

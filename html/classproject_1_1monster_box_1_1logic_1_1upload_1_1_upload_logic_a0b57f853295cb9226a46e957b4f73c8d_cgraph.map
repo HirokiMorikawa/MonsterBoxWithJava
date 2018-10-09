@@ -1,0 +1,11 @@
+<map id="project.monsterBox.logic.upload.UploadLogic.updateUserProfile" name="project.monsterBox.logic.upload.UploadLogic.updateUserProfile">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profiling_system.html#ae4334a2353c9b45abd17a403d81ba55c" title="project.monsterBox.logic.profile.\lUserProfilingSystem.addUpdateFileHistory" alt="" coords="268,68,542,107"/>
+<area shape="rect" id="node5" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profiling_system.html#ad54b8506884375d4bbf881f580df64e7" title="project.monsterBox.logic.profile.\lUserProfilingSystem.save" alt="" coords="300,193,511,232"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1model_1_1_user_profile.html#a90ed66947a00cb64e41a70cdadecb8e9" title="project.monsterBox.model.\lUserProfile.getUploadHistory" alt="" coords="602,5,795,44"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1model_1_1_upload_file_list.html#a8c21eaf4b06c92aa695fd163c1048a57" title="project.monsterBox.model.\lUploadFileList.addUploadFile" alt="" coords="601,68,796,107"/>
+<area shape="rect" id="node6" href="$classproject_1_1monster_box_1_1logic_1_1access_1_1_profile_accessor.html#a4c0948fe8e96d2a2871274ac324560c9" title="project.monsterBox.logic.access.\lProfileAccessor.existsUserProfile" alt="" coords="590,131,807,169"/>
+<area shape="rect" id="node7" href="$classproject_1_1monster_box_1_1model_1_1_user_profile.html#aa8930d3939b64f03b6af1c323970b629" title="project.monsterBox.model.\lUserProfile.getUser" alt="" coords="609,193,789,232"/>
+<area shape="rect" id="node8" href="$classproject_1_1monster_box_1_1model_1_1_user.html#a8a53621d34a71ca2a6f16aba5c723075" title="project.monsterBox.model.\lUser.getLoginID" alt="" coords="609,256,789,295"/>
+<area shape="rect" id="node9" href="$classproject_1_1monster_box_1_1logic_1_1access_1_1_profile_accessor.html#adb4699fb716b72450add47381371a0e8" title="project.monsterBox.logic.access.\lProfileAccessor.saveUserProfile" alt="" coords="590,319,807,357"/>
+<area shape="rect" id="node10" href="$classproject_1_1monster_box_1_1logic_1_1_serializer.html#aed787295c12d06234beb3afaf618b3e0" title="project.monsterBox.logic.\lSerializer.doSerialize" alt="" coords="855,319,1026,357"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="logic.dao.login.AuthenUserFileAccessor.deleteUser" name="logic.dao.login.AuthenUserFileAccessor.deleteUser">
+<area shape="rect" id="node2" href="$classlogic_1_1login_1_1_sign_in_system.html#a0981bf3d4da468ed94ad7898c2da06ea" title="logic.login.SignInSystem.sign_in" alt="" coords="234,12,447,37"/>
+<area shape="rect" id="node3" href="$classlogic_1_1login_1_1_sign_in_system.html#a8f8825adedd7740bf7e77e8cfbf3ba9c" title="logic.login.SignInSystem.do\lSign_in" alt="" coords="495,5,680,44"/>
+<area shape="rect" id="node4" href="$classlogic_1_1login_1_1_auth_system.html#a394e9a68ffdb70c50d18232de0997a2a" title="logic.login.AuthSystem.doAuth" alt="" coords="728,12,930,37"/>
+<area shape="rect" id="node5" href="$classcontroller_1_1_login_controller.html#af702d416476b408c29cdc30ba398942b" title="controller.LoginController.doPost" alt="" coords="978,12,1192,37"/>
+</map>

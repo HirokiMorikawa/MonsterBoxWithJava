@@ -1,0 +1,5 @@
+<map id="project.monsterBox.logic.upload.UploadLogicTemplate.updateUserProfile" name="project.monsterBox.logic.upload.UploadLogicTemplate.updateUserProfile">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_logic_template.html#a289922f0813e35f9bfa69c3ecbff2790" title="project.monsterBox.logic.upload.\lUploadLogicTemplate.doUpload" alt="" coords="313,5,528,44"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_system.html#a6522932450d50d16c9d63b9b0d71becf" title="project.monsterBox.logic.upload.\lUploadSystem.doUpload" alt="" coords="576,5,791,44"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1servlet_1_1_upload_file_servlet.html#a06c01f4721707e41faa9b6c6a9a8882c" title="project.monsterBox.servlet.\lUploadFileServlet.doSaveFile" alt="" coords="839,5,1036,44"/>
+</map>

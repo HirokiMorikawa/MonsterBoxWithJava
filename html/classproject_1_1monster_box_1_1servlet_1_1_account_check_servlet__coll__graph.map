@@ -1,0 +1,4 @@
+<map id="project.monsterBox.servlet.AccountCheckServlet" name="project.monsterBox.servlet.AccountCheckServlet">
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1logic_1_1login_1_1_user_check_system.html" title="{project.monsterBox.logic.login.\lUserCheckSystem\n||+ UserCheckSystem()\l+ doCheck()\l+ idCheck()\l}" alt="" coords="143,273,346,387"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1logic_1_1access_1_1_authen_user_file_accessor.html" title="{project.monsterBox.logic.access.\lAuthenUserFileAccessor\n|&#45; defaultPath\l&#45; filename\l|+ AuthenUserFileAccessor()\l+ findAll()\l+ findByUser()\l+ insertUser()\l+ deleteUser()\l+ toUser()\l+ authFile()\l+ getPath()\l&#45; createAuthenUserFile()\l}" alt="" coords="137,5,353,212"/>
+</map>

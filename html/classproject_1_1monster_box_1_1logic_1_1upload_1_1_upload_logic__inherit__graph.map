@@ -1,0 +1,3 @@
+<map id="project.monsterBox.logic.upload.UploadLogic" name="project.monsterBox.logic.upload.UploadLogic">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1upload_1_1_upload_logic_template.html" title="{project.monsterBox.logic.upload.\lUploadLogicTemplate\n|# profile\l# userid\l# path\l# part\l# time\l# title\l# ownerComment\l# mimeType\l|+ UploadLogicTemplate()\l+ doUpload()\l# doSaveFile()\l# doGenerateUploadFile()\l# updateUserProfile()\l# registerToCentralStore()\l}" alt="" coords="5,5,220,252"/>
+</map>

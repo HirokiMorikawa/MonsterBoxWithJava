@@ -1,0 +1,6 @@
+<map id="project.monsterBox.model.UploadFile" name="project.monsterBox.model.UploadFile">
+<area shape="rect" id="node5" href="$classproject_1_1monster_box_1_1model_1_1_comment.html" title="{project.monsterBox.model.\lComment\n|&#45; userId\l&#45; comment\l&#45; serialVersionUID\l|+ Comment()\l+ getUserId()\l+ getComment()\l}" alt="" coords="285,153,465,293"/>
+<area shape="rect" id="node6" href="$classproject_1_1monster_box_1_1model_1_1_comment_list.html" title="{project.monsterBox.model.\lCommentList\n||+ CommentList()\l+ getCommentList()\l+ addComment()\l}" alt="" coords="32,167,212,280"/>
+<area shape="rect" id="node8" href="$classproject_1_1monster_box_1_1model_1_1_follow_user_list.html" title="{project.monsterBox.model.\lFollowUserList\n||+ FollowUserList()\l+ getFollowUserList()\l+ addFollowUser()\l}" alt="" coords="489,167,669,280"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1model_1_1_owner_comment.html" title="{project.monsterBox.model.\lOwnerComment\n|&#45; title\l|+ OwnerComment()\l+ getTitle()\l}" alt="" coords="285,343,465,443"/>
+</map>

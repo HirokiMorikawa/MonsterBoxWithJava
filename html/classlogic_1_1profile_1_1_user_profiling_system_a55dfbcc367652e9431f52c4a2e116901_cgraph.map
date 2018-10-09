@@ -1,0 +1,5 @@
+<map id="logic.profile.UserProfilingSystem.hasUserProfile" name="logic.profile.UserProfilingSystem.hasUserProfile">
+<area shape="rect" id="node2" href="$classlogic_1_1access_1_1_profile_accessor.html#a01f24dab13cfdf65b816ac0bc9c50849" title="logic.access.ProfileAccessor.exists\lUserProfile" alt="" coords="222,5,449,44"/>
+<area shape="rect" id="node3" href="$classmodel_1_1_user_profile.html#a06b1be22d7d21ac5efdff98e3cf4cd38" title="model.UserProfile.getUser" alt="" coords="247,68,425,93"/>
+<area shape="rect" id="node4" href="$classmodel_1_1_user.html#a73b2522bcb32e0bcfdeae69bd715115c" title="model.User.getLoginID" alt="" coords="257,117,414,143"/>
+</map>

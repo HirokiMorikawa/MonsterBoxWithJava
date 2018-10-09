@@ -1,0 +1,4 @@
+<map id="logic.login.AuthSystem.setParams" name="logic.login.AuthSystem.setParams">
+<area shape="rect" id="node2" href="$classmodel_1_1_user.html#a28f20bcbe2b5411852e80577582c30ca" title="model.User.setLoginID" alt="" coords="237,5,394,31"/>
+<area shape="rect" id="node3" href="$classmodel_1_1_user.html#aea6892aee94929a724acea844061fa70" title="model.User.setPassword" alt="" coords="231,55,400,80"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="project.monsterBox.logic.profile.UserProfilingSystem.createUserProfileIfNotExist" name="project.monsterBox.logic.profile.UserProfilingSystem.createUserProfileIfNotExist">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profiling_system.html#adec4e618a2f2f5fd27216823635b9205" title="project.monsterBox.logic.profile.\lUserProfilingSystem.hasUserProfile" alt="" coords="302,84,535,123"/>
+<area shape="rect" id="node6" href="$classproject_1_1monster_box_1_1logic_1_1access_1_1_profile_accessor.html#adb4699fb716b72450add47381371a0e8" title="project.monsterBox.logic.access.\lProfileAccessor.saveUserProfile" alt="" coords="311,163,527,201"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1logic_1_1access_1_1_profile_accessor.html#a4c0948fe8e96d2a2871274ac324560c9" title="project.monsterBox.logic.access.\lProfileAccessor.existsUserProfile" alt="" coords="583,5,800,44"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1model_1_1_user_profile.html#aa8930d3939b64f03b6af1c323970b629" title="project.monsterBox.model.\lUserProfile.getUser" alt="" coords="602,68,782,107"/>
+<area shape="rect" id="node5" href="$classproject_1_1monster_box_1_1model_1_1_user.html#a8a53621d34a71ca2a6f16aba5c723075" title="project.monsterBox.model.\lUser.getLoginID" alt="" coords="602,131,782,169"/>
+<area shape="rect" id="node7" href="$classproject_1_1monster_box_1_1logic_1_1_serializer.html#aed787295c12d06234beb3afaf618b3e0" title="project.monsterBox.logic.\lSerializer.doSerialize" alt="" coords="606,193,777,232"/>
+</map>

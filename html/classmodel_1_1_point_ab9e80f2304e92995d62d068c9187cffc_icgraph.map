@@ -1,0 +1,6 @@
+<map id="model.Point.getPoint" name="model.Point.getPoint">
+<area shape="rect" id="node2" href="$classmodel_1_1_user_profile.html#a085caab7f905842010ebe2fa1f1f40d8" title="model.UserProfile.getUser\lInformation" alt="" coords="198,48,375,87"/>
+<area shape="rect" id="node3" href="$classcontroller_1_1_top_controller.html#ad5d929739c3ca27143a57882e9841bc7" title="controller.TopController.doGet" alt="" coords="436,5,633,31"/>
+<area shape="rect" id="node4" href="$classlogic_1_1access_1_1_profile_accessor.html#a321ac5080cd3d635776abc93c048703e" title="logic.access.ProfileAccessor.main" alt="" coords="423,55,646,80"/>
+<area shape="rect" id="node5" href="$classmodel_1_1_user_profile.html#a46fd148a61454f1ca5641fba0ee54889" title="model.UserProfile.main" alt="" coords="455,104,614,129"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="project.monsterBox.logic.profile.UserProfilingSystem.hasUserProfile" name="project.monsterBox.logic.profile.UserProfilingSystem.hasUserProfile">
+<area shape="rect" id="node2" href="$classproject_1_1monster_box_1_1logic_1_1login_1_1_login_system.html#a02a3666da63854222b9a9e5a4c38f9f2" title="project.monsterBox.logic.login.\lLoginSystem.doLogin" alt="" coords="583,5,786,44"/>
+<area shape="rect" id="node4" href="$classproject_1_1monster_box_1_1logic_1_1login_1_1_sign_in_system.html#ae6de933be394cbc75bce2a4f63f33b71" title="project.monsterBox.logic.login.\lSignInSystem.doSign_in" alt="" coords="583,68,786,107"/>
+<area shape="rect" id="node6" href="$classproject_1_1monster_box_1_1logic_1_1profile_1_1_user_profiling_system.html#a6167e286792223d1f0f60a5183da6072" title="project.monsterBox.logic.profile.\lUserProfilingSystem.createUserProfile\lIfNotExist" alt="" coords="287,29,535,81"/>
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1servlet_1_1_login_servlet.html#a81c13343ff73f9b2116d01c88a8469ef" title="project.monsterBox.servlet.\lLoginServlet.doPost" alt="" coords="834,5,1017,44"/>
+<area shape="rect" id="node5" href="$classproject_1_1monster_box_1_1servlet_1_1_sign_in_servlet.html#afa23c37b3cd5fadf3b9cc4fca46d6e74" title="project.monsterBox.servlet.\lSignInServlet.doPost" alt="" coords="834,68,1017,107"/>
+</map>

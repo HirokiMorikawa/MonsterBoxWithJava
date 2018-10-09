@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="stylesheet" href="./../css/style.css" />
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+	rel="stylesheet" />
+<title>プロフィール</title>
+<script src="./../js/profile.js"></script>
+<script src="./../js/main.js"></script>
+<script src="./../js/avatar.js"></script>
+</head>
+<body>
+	<header>
+		<nav id="nav">
+			<div class="left">
+				<img src="./../img/hoyahoya.png" />
+			</div>
+			<ul class="right">
+			</ul>
+			<i class="material-icons" id="side-button">menu</i>
+		</nav>
+	</header>
+
+	<div class="container">
+		<div class="row">
+			<div class="col m4 s12">
+				<div class="card">
+					<div style="text-align: center">
+						<img id="nowAvatar" class="avatar" alt="Img" />
+					</div>
+					<!-- <input id="nowAvatarNum" type="text"/> -->
+					アバター設定： <select id="nowAvatarNum" name="アバター選択" size="1">
+						<option>アバター選択</option>
+						<option value="0">sample0</option>
+						<option value="1">sample1</option>
+						<option value="2">sample2以下略</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+						<option value="6">6</option>
+						<option value="7">7</option>
+						<option value="8">8</option>
+						<option value="9">9</option>
+						<option value="10">10</option>
+						<option value="11">11</option>
+						<option value="12">12</option>
+						<option value="13">13</option>
+						<option value="14">14</option>
+						<option value="15">15</option>
+						<option value="16">16</option>
+						<option value="17">17</option>
+						<option value="18">18</option>
+						<option value="19">19</option>
+						<option value="20">20</option>
+						<option value="21">21</option>
+						<option value="22">22</option>
+						<option value="23">23</option>
+						<option value="24">24</option>
+						<option value="25">25</option>
+						<option value="26">26</option>
+						<option value="27">27</option>
+						<option value="28">28</option>
+					</select>
+					<!-- <button id="decide_button">決定</button> -->
+					<ul id="user">
+					</ul>
+				</div>
+			</div>
+
+			<div class="col m8 s12">
+				<div class="divider"></div>
+				<h1>アップロード履歴</h1>
+				<div id="upload" class="flexcontainer"></div>
+				<div class="divider"></div>
+				<h1>閲覧履歴</h1>
+				<div id="watch" class="flexcontainer"></div>
+				<div class="divider"></div>
+				<h1>お気に入り</h1>
+				<div id="favorite" class="flexcontainer"></div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

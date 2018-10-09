@@ -1,0 +1,19 @@
+<map id="logic.login.SignInSystem.doSign_in" name="logic.login.SignInSystem.doSign_in">
+<area shape="rect" id="node2" href="$classmodel_1_1_user.html#a73b2522bcb32e0bcfdeae69bd715115c" title="model.User.getLoginID" alt="" coords="821,247,978,272"/>
+<area shape="rect" id="node3" href="$classlogic_1_1login_1_1_sign_in_system.html#a0981bf3d4da468ed94ad7898c2da06ea" title="logic.login.SignInSystem.sign_in" alt="" coords="520,85,733,111"/>
+<area shape="rect" id="node13" href="$classlogic_1_1profile_1_1_user_profiling_system.html#a55dfbcc367652e9431f52c4a2e116901" title="logic.profile.UserProfiling\lSystem.hasUserProfile" alt="" coords="542,301,711,340"/>
+<area shape="rect" id="node16" href="$classlogic_1_1profile_1_1_user_profiling_system.html#a4b12d1c1e4eba63800212bbbe1f5b28a" title="logic.profile.UserProfiling\lSystem.createUserProfileIfNotExist" alt="" coords="238,187,468,225"/>
+<area shape="rect" id="node18" href="$classlogic_1_1profile_1_1_user_profiling_system.html#aed551ba3f41155e54e8051659e4fbd67" title="logic.profile.UserProfiling\lSystem.save" alt="" coords="269,249,438,288"/>
+<area shape="rect" id="node4" href="$classlogic_1_1access_1_1_authen_user_file_accessor.html#a77f52a297032f071c7c35710121dbe1f" title="logic.access.AuthenUserFile\lAccessor.findByUser" alt="" coords="804,5,994,44"/>
+<area shape="rect" id="node9" href="$classlogic_1_1access_1_1_authen_user_file_accessor.html#a34192200b3c8ce5374799254c0114ffb" title="logic.access.AuthenUserFile\lAccessor.insertUser" alt="" coords="804,131,994,169"/>
+<area shape="rect" id="node11" href="$classlogic_1_1_serializer.html#a944e23e760d566b3fc572a85104eadcf" title="logic.Serializer.doSerialize" alt="" coords="811,193,988,219"/>
+<area shape="rect" id="node12" href="$classlogic_1_1access_1_1_authen_user_file_accessor.html#a2bce6778f2fb7666d4fa4f24ab5a5608" title="logic.access.AuthenUserFile\lAccessor.deleteUser" alt="" coords="804,68,994,107"/>
+<area shape="rect" id="node5" href="$classlogic_1_1access_1_1_authen_user_file_accessor.html#a91151b3eef21520df72207354127900c" title="logic.access.AuthenUserFile\lAccessor.findAll" alt="" coords="1061,8,1250,47"/>
+<area shape="rect" id="node6" href="$classlogic_1_1access_1_1_authen_user_file_accessor.html#a21491fa706ddcf4e3525439f3d6fae56" title="logic.access.AuthenUserFile\lAccessor.authFile" alt="" coords="1298,69,1488,108"/>
+<area shape="rect" id="node8" href="$classlogic_1_1access_1_1_authen_user_file_accessor.html#a8cc3a62bf143c0995d564afc201c3b1b" title="logic.access.AuthenUserFile\lAccessor.toUser" alt="" coords="1298,7,1488,45"/>
+<area shape="rect" id="node7" href="$classlogic_1_1access_1_1_authen_user_file_accessor.html#abb574dc48270a26feecc54d7d9a34502" title="logic.access.AuthenUserFile\lAccessor.getPath" alt="" coords="1536,69,1725,108"/>
+<area shape="rect" id="node10" href="$classmodel_1_1_user.html#af817c53cbe23126d07aa29de7cfa5eef" title="model.User.toString" alt="" coords="1086,125,1225,151"/>
+<area shape="rect" id="node14" href="$classlogic_1_1access_1_1_profile_accessor.html#a01f24dab13cfdf65b816ac0bc9c50849" title="logic.access.ProfileAccessor.exists\lUserProfile" alt="" coords="785,396,1013,435"/>
+<area shape="rect" id="node15" href="$classmodel_1_1_user_profile.html#a06b1be22d7d21ac5efdff98e3cf4cd38" title="model.UserProfile.getUser" alt="" coords="810,321,988,347"/>
+<area shape="rect" id="node17" href="$classlogic_1_1access_1_1_profile_accessor.html#ad341119d0b31eee91d21c2b8eb0a120e" title="logic.access.ProfileAccessor.save\lUserProfile" alt="" coords="516,187,737,225"/>
+</map>

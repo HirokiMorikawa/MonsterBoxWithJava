@@ -1,0 +1,5 @@
+<map id="project.monsterBox.model.UserProfile" name="project.monsterBox.model.UserProfile">
+<area shape="rect" id="node3" href="$classproject_1_1monster_box_1_1model_1_1_upload_file_list.html" title="{project.monsterBox.model.\lUploadFileList\n||+ UploadFileList()\l+ uploadFileList()\l+ addUploadFile()\l}" alt="" coords="21,187,201,300"/>
+<area shape="rect" id="node5" href="$classproject_1_1monster_box_1_1model_1_1_abator.html" title="{project.monsterBox.model.\lAbator\n|&#45; abatorFilePath\l|+ Abator()\l+ Abator()\l+ getAbatorFilePath()\l}" alt="" coords="225,187,405,300"/>
+<area shape="rect" id="node6" href="$classproject_1_1monster_box_1_1model_1_1_user.html" title="{project.monsterBox.model.User\n|&#45; loginID\l&#45; password\l|+ User()\l+ User()\l+ setLoginID()\l+ getLoginID()\l+ setPassword()\l+ getPassword()\l+ equals()\l+ toString()\l}" alt="" coords="429,153,637,333"/>
+</map>
